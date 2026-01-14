@@ -1,8 +1,7 @@
 # Airbnb-New-York-EDA
 Exploratory Data Analysis (EDA) of New York City Airbnb listings using Python to uncover insights on pricing, room types, availability, and host behavior.
 
-![Uploading New-York-City-Brooklyn-Bridge-Panorama-Juergen-Roth-2.jpg…]()
-
+![New-York-City-Brooklyn-Bridge-Panorama-Juergen-Roth-2](https://github.com/user-attachments/assets/5747c0c6-5ff8-4cab-be37-c99b1b4ed0c3)
 
 # 🏙️ Airbnb Listings EDA Project – New York (2024)
 
